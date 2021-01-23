@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/Rebzzel/kiero/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Rebzzel/kiero.svg?style=flat-square"/>
-  </a>  
+  </a>
   <a href="https://github.com/Rebzzel/kiero/stargazers">
     <img src="https://img.shields.io/github/stars/Rebzzel/kiero.svg?style=flat-square"/>
   </a>
@@ -92,14 +92,11 @@ BOOL WINAPI DllMain(HINSTANCE hInstance, DWORD fdwReason, LPVOID)
 
 ```
 
-### Contributors
-[Rebzzel](https://github.com/Rebzzel)
-
 ### License
 ```
 MIT License
 
-Copyright (c) 2014-2019 Rebzzel
+Copyright (c) 2014-2021 Rebzzel
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
